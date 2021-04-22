@@ -1,0 +1,35 @@
+{$= "text/html" @setMimeType $}
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Home</title>
+      <style>
+         {background-color: #{$="background" 0 @tparamGet $};}
+      </style>
+   </head>
+   <body style="background-color:#{$="background" 0 @tparamGet $};">
+      <a href="/scripts/osnovni.smscr">osnovni.smscr</a>
+      <a href="/scripts/brojPoziva.smscr">brojPoziva.smscr</a>
+      <a href="/scripts/fibonaccihtml.smscr">fibonaccihtml.smscr</a>
+      <a href="/ext/HelloWorker">HelloWorker</a>
+      <a href="/ext/CircleWorker">CircleWorker</a>
+      
+      <p>Zbrajanje</p>
+      <form action="/calc" method="get" enctype="application/x-www_form-urlencoded">
+         Unesite a: <input type="text" name="a"></br>
+         Unesite b: <input type="text" name="b"></br>
+         <input type="submit">
+      </form>
+      
+      <form action="/setbgcolor" method="get" enctype="application/x-www_form-urlencoded">
+         <p>Select color</p>
+         <select name="bgcolor">
+        	<option value="FF0000">Red</option>
+			<option value="FFFFFF">White</option>
+			<option value="FFA500">Orange</option>
+			<option value="228B22">Forest green</option>
+         </select>
+         <p><input type="submit" value="Submit"></p>
+      </form>
+   </body>
+</html>

@@ -1,0 +1,8 @@
+505	Arctic Monkeys	https://www.youtube.com/watch?v=R7A1mIdiheE
+23	Daft Punk	https://www.youtube.com/watch?v=a5uQMwRMHcs
+3	Red Hot Chilli Peppers	https://www.youtube.com/watch?v=rn_YodiJO6k
+4	The Weeknd	https://www.youtube.com/watch?v=fHI8X4OXluQ
+2	Buč Kesidi	https://www.youtube.com/watch?v=81SmEWDYvPA
+6	Nothing But Thieves	https://www.youtube.com/watch?v=ZHv0OFyb-aM
+7	Simply Red	https://www.youtube.com/watch?v=zTcu7MCtuTs
+8	Green Day	https://www.youtube.com/watch?v=Soa3gO7tL-c

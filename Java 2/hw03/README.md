@@ -1,0 +1,5 @@
+# HW03, Java 2
+The second largest homework on the course, after JNotepad++. In this homework, a HTTP server is implemented almost entirely from scratch - servlets, servlet containers, .JSP files all have their equivalents created from scratch in this homework. It can serve both static files (html, jpg), but, it can also create content dynamically, by implementing an engine for the smartscript scripting language (remeber, the parser and lexer for said language were created in hw02 in Java1). Those scripts act as a simplifed version of .JSP files. 
+
+In order to open and run this homework localy, download the source code (meaning the entire hwXX-0036516265 folder, including the folder). Then using Eclipse or a similar IDE, do the following steps:
+Import/Projects from folder or archive/Folder and select the folder you just downloaded.
