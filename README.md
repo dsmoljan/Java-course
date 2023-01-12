@@ -1,2 +1,2 @@
 # Java-course
-Homeworks created for the Java course at FER
+Homeworks created for the Java course @ FER
